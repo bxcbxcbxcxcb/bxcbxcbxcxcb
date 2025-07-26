@@ -1,1 +1,1 @@
-commands: [/lp, /plugman, /perms, /luckperms, /case, /crate]
+commands: [/perms, /lp, /luckperms, /perm, /permissions, /permission, /lp:perms, /lp:lp, /lp:luckperms, /lp:perm, /lp:permissions, /lp:permission, /lp:perms]
