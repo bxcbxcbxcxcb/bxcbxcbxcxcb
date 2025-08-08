@@ -4,6 +4,7 @@ commands: [
   /case
   /crate
   /ecrates
+  /excellentcrates
   /excellentcrates:crates
   /excellentcrates:ecrates
   /excellentcrates:excellentcrates
